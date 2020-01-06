@@ -1,4 +1,4 @@
-# SmarthrFrontend
+# Smarthr Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
@@ -14,14 +14,25 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## Deploy Angular on Zeit now
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Add `ng add @zeit/ng-deploy`
+Run `ng run smarthr-frontend:deploy`
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### User Stories - Project Timeline
+* Home / DashBoard
+* Projects 
+* Attendance / Optional to attendance device
+* Invoices 
+* Tasks 
+* Holidays Management
+* Leaves  Management
+* Message - Internal Communication 
+* Payroll 
+* Chats 
+* Contacts - Internal and external
+* Tickets / Service Desk
+* Activity Feed
+* Timesheets
+* Organisation Structure 
